@@ -262,10 +262,14 @@ Does not account for local conflict, political instability, or climate factors
 Not all indicators (e.g., mosquito breeding habitats) are represented
 
 11. References & Appendices
+12. [DatasetAfricaMalaria.xlsx](https://github.com/user-attachments/files/20048306/DatasetAfricaMalaria.xlsx)
+
 References
 WHO World Malaria Reports
 World Bank Indicators
 UNICEF sanitation & water access reports
+
+
 
 Appendices
 Detailed Excel dashboard (charts, slicers)
